@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+rq
+redis
+openai
+supabase
+httpx
